@@ -35,11 +35,11 @@ Data in the folder './Data/' is the Nha Be weather radar records, contains:
 
 # Storm tracking and analyze
 ## TINT
-![storm_tracking](img/storm-tracking.gif)
+![storm_tracking](./img/storm-tracking.gif)
 # 3-D Visualization for Reflectivity
 * Display radar's sweeps:
 ![sweeps](img/sweeps.png)
 
 * Reflectivities on each sweep:
 ![3d_reflectivity](img/sweeps_reflectivities.png)
-![3d_reflectivity](img/3d_reflectivities.gif)
+![3d_reflectivity](./img/3d_reflectivities.gif)
